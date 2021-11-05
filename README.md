@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sethsimpson3
 - 👀 I’m interested in ... learning to code so that I can switch careers.
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email seth.simpson@hotmail.com
 
